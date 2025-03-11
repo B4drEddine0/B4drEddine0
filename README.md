@@ -39,16 +39,16 @@
 
 - 📧 Email : badrdine03@gmail.com
 - 🔗 LinkedIn : [www.linkedin.com/in/massaalkhayr/](www.linkedin.com/in/massaalkhayr/)
-- 🌐 Portfolio : [Lien vers votre portfolio]
+- 🌐 Portfolio : [Under Maintenence]
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B4drEddne0&show_icons=true&theme=radical" alt="Statistiques GitHub de Badr Eddine"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=B4drEddine0&show_icons=true&theme=radical" alt="Statistiques GitHub de Badr Eddine"/>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/B4drEddine0/B4drEddine0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/B4drEddine0/B4drEddine0/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/B4drEddine0/B4drEddine0/output/github-snake.svg" />
 </picture>
