@@ -10,7 +10,7 @@ I'm a passionate **Full Stack Developer** with solid fundamentals and strong pra
 
 **Location:** Nador, Morocco  
 **Availability:** Open for projects  
-**Phone:** +212687838857
+**Phone:** +212687833857
 
 ---
 
